@@ -11,6 +11,10 @@ npm start
 ```
 and open http://localhost:8080/ in your browser.
 
-## Test
+## Test build
 
-TBA.
+```
+npm run test:watch
+```
+
+
